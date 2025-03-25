@@ -2,7 +2,7 @@
 <p align="center">🎌 React-разработчик из 🇷🇺, мне 17 лет</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="sakura gif" width="400"/>
+  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://giphy.com/gifs/kawaii-sakura-lXOI5Bj5bndSw)" alt="sakura gif" width="400"/>
 </p>
 
 ---
