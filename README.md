@@ -32,12 +32,12 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhilsoM&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Связь со мной
 
-- Telegram: [@твойник](https://t.me/твойник)
-- Email: example@gmail.com
+- Telegram: [@moonwqwizlio](https://t.me/moonwqwizlio)
+- Email: tatsveet@gmail.com
