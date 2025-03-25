@@ -1,1 +1,43 @@
-# WhileMoon
+<h1 align="center">Привет 👋, я Артур</h1>
+<p align="center">🎌 React-разработчик из 🇷🇺, мне 17 лет</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="sakura gif" width="400"/>
+</p>
+
+---
+
+### 🧠 Обо мне
+
+- 💻 Сейчас развиваюсь как Frontend-разработчик
+- 📚 Изучаю TypeScript и углубляю знания по React
+- 🌱 Использую чистую архитектуру, FSD, Tailwind, и пробую новые вещи
+- 📍 Хочу попасть в команду, где можно учиться и расти
+
+---
+
+### 🛠️ Мой стек
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-593d88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobX-eb5757?style=for-the-badge&logo=mobx&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 📫 Связь со мной
+
+- Telegram: [@твойник](https://t.me/твойник)
+- Email: example@gmail.com
